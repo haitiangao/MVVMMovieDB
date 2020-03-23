@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMMovieDataBase</string>
+    <string name="lorem_ipsum">lorem_ipsum</string>
+</resources>
